@@ -15,11 +15,15 @@ An examination of Oahu's weather patterns could aid in determining whether seaso
 
 * The average recorded temperature in June is approximately 75 degrees Fahrenheit, which is 4 degrees higher than the average temperature in December.
 This corresponds to a -5 percent change in average temperature between June and December.
+
 *The frequency of temperatures recorded in June has a much more normal, tight bell curve distribution, which is supported by the lower standard deviation of June temps vs December temps.
+
 *Temperatures in December appear to be more variable than those in June, owing to the larger range of recorded temperatures (comparing the maximum vs min temp of each month).
 
 ## Deliverable 2
 
 *The average temperature difference between summer and winter is less than 4 degrees. This demonstrates that the weather isn't very variable all year, and it's rarely too cold for a scoop of mint-chocolate chip ice cream and some tight curls.
+
 *Most temperature observations were within 4 degrees of this average on either side. This indicates that the majority of days are within a few degrees of the average, and that the average temperature is not unusual. You are unlikely to encounter freezing waves, and your double-scoop cone of rocky road is unlikely to melt before you can eat it.
+
 *Less than 3/4 of the daily rainfall readings for three years indicate less than 0.14 inches. This data, modified from the work done on the module, shows that the average rainfall is very low. So you don't have to worry about bad weather on the beach or  unwanted raindrops on Triple Sunday.
