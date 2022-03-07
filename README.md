@@ -19,6 +19,7 @@ This corresponds to a -5 percent change in average temperature between June and 
 *The frequency of temperatures recorded in June has a much more normal, tight bell curve distribution, which is supported by the lower standard deviation of June temps vs December temps.
 
 *Temperatures in December appear to be more variable than those in June, owing to the larger range of recorded temperatures (comparing the maximum vs min temp of each month).
+![Image](Results1.png?raw=true)
 
 ## Deliverable 2
 
@@ -27,3 +28,5 @@ This corresponds to a -5 percent change in average temperature between June and 
 *Most temperature observations were within 4 degrees of this average on either side. This indicates that the majority of days are within a few degrees of the average, and that the average temperature is not unusual. You are unlikely to encounter freezing waves, and your double-scoop cone of rocky road is unlikely to melt before you can eat it.
 
 *Less than 3/4 of the daily rainfall readings for three years indicate less than 0.14 inches. This data, modified from the work done on the module, shows that the average rainfall is very low. So you don't have to worry about bad weather on the beach or  unwanted raindrops on Triple Sunday.
+
+![Image](Results2.png?raw=true)
